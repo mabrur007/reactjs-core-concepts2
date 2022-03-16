@@ -46,3 +46,10 @@
   padding: 20px;
   margin: 20px;
 }
+
+.user {
+  border: 2px solid crimson;
+  border-radius: 20px;
+  margin: 25px;
+
+}
